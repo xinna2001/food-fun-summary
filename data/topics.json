@@ -30,6 +30,51 @@
       ],
       "created_at": "2026-11-04T10:56:55+00:00",
       "updated_at": "2026-11-04T10:56:55+00:00"
+    },
+    {
+      "id": "2026-11-04-liangmahe-waterfront",
+      "name": "亮马河国际风情水岸（亮马河公园段）",
+      "report": "topics/2026-11-04-liangmahe-waterfront/README.md",
+      "sources": [
+        {
+          "kind": "screenshot",
+          "url": null,
+          "title": "抖音\"北京情侣约会好去处\"探店合集口头描述（提到亮马河公园）",
+          "note": "抖音截图提供，原链接待补"
+        }
+      ],
+      "created_at": "2026-11-04T10:58:08+00:00",
+      "updated_at": "2026-11-04T10:58:08+00:00"
+    },
+    {
+      "id": "2026-11-04-beijing-aquarium",
+      "name": "北京海洋馆",
+      "report": "topics/2026-11-04-beijing-aquarium/README.md",
+      "sources": [
+        {
+          "kind": "screenshot",
+          "url": null,
+          "title": "抖音\"北京情侣约会好去处\"探店合集口头描述（提到北京海洋馆）",
+          "note": "抖音截图提供，原链接待补"
+        }
+      ],
+      "created_at": "2026-11-04T10:58:08+00:00",
+      "updated_at": "2026-11-04T10:58:08+00:00"
+    },
+    {
+      "id": "2026-11-04-art-798-district",
+      "name": "798 艺术区（798 Art District）",
+      "report": "topics/2026-11-04-art-798-district/README.md",
+      "sources": [
+        {
+          "kind": "screenshot",
+          "url": null,
+          "title": "抖音\"北京情侣约会好去处\"探店合集口头描述（提到798艺术区）",
+          "note": "抖音截图提供，原链接待补"
+        }
+      ],
+      "created_at": "2026-11-04T10:58:08+00:00",
+      "updated_at": "2026-11-04T10:58:08+00:00"
     }
   ]
 }

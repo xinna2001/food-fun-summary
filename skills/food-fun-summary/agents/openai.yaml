@@ -1,0 +1,4 @@
+interface:
+  display_name: "吃喝玩乐汇总"
+  short_description: "从抖音探店/景点链接检索位置、人均与评价，通过 PR 维护 GitHub 三列吃喝玩乐索引"
+  default_prompt: "使用 $food-fun-summary 分析我发来的吃喝玩乐地点，查位置、人均消费与评价，通过独立分支创建 PR，必要检查通过后直接合并并回读主分支。"

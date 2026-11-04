@@ -9,6 +9,9 @@
 | --- | --- | --- |
 | Farmily米舍（南馆公园店） | [查看详细信息](topics/2026-11-04-farmily-mishe-nanguan-park/README.md) | 截图提供，原链接待补（抖音截图提供，原链接待补） |
 | 堂吉诃德·西班牙餐厅（北京国贸商城店） | [查看详细信息](topics/2026-11-04-quijote-spanish-guomao/README.md) | 截图提供，原链接待补（截图提供，原链接待补（抖音 @睡懵的帕尼尼 8月1日 推荐）） |
+| 亮马河国际风情水岸（亮马河公园段） | [查看详细信息](topics/2026-11-04-liangmahe-waterfront/README.md) | 截图提供，原链接待补（抖音截图提供，原链接待补） |
+| 北京海洋馆 | [查看详细信息](topics/2026-11-04-beijing-aquarium/README.md) | 截图提供，原链接待补（抖音截图提供，原链接待补） |
+| 798 艺术区（798 Art District） | [查看详细信息](topics/2026-11-04-art-798-district/README.md) | 截图提供，原链接待补（抖音截图提供，原链接待补） |
 <!-- FOOD_FUN:END -->
 
 

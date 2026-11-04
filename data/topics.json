@@ -1,4 +1,20 @@
 {
   "schema_version": 1,
-  "topics": []
+  "topics": [
+    {
+      "id": "2026-11-04-farmily-mishe-nanguan-park",
+      "name": "Farmily米舍（南馆公园店）",
+      "report": "topics/2026-11-04-farmily-mishe-nanguan-park/README.md",
+      "sources": [
+        {
+          "kind": "screenshot",
+          "url": null,
+          "title": "抖音探店截图：北京二环公园里的 Family米舍（用户口头描述，未拿到抖音原链接）",
+          "note": "抖音截图提供，原链接待补"
+        }
+      ],
+      "created_at": "2026-11-04T10:53:25+00:00",
+      "updated_at": "2026-11-04T10:53:25+00:00"
+    }
+  ]
 }
